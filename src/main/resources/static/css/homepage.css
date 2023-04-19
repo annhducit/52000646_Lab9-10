@@ -1,0 +1,39 @@
+.container-product {
+    padding-top: 8px;
+}
+.block-image {
+    width: 100%;
+    height: 220px;
+}
+.row-product-items {
+    margin-top: 16px;
+}
+
+.logout-account {
+    display: flex;
+    justify-content: space-between;
+}
+.image-product {
+    padding: 8px;
+    height: 100%;
+}
+
+.text-brand {
+    display:  flex;
+    justify-content: space-between;
+}
+
+.button-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.items-product {
+    padding-top: 16px;
+}
+
+.text-quantity {
+    display: flex;
+    justify-content: space-between;
+}
+
